@@ -2,7 +2,7 @@
 
 """
     Starter code for the regression mini-project.
-    
+    linear or logistic regression:
     Loads up/formats a modified version of the dataset
     (why modified?  we've removed some trouble points
     that you'll find yourself in the outliers mini-project).
