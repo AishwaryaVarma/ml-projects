@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-import matplotlib.pyplot as plt
+import matplotlib.py.plot as plt
 from prep_terrain_data import makeTerrainData
 from class_vis import prettyPicture
 
